@@ -1,3 +1,0 @@
-print("Swathi Blue")
-hii nisha
-happy birth day priya
